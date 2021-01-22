@@ -1,0 +1,10 @@
+h1 {
+    color: green;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 2rem;
+}
+
+.form {
+    background-color: red;
+    max-width: 50%;
+}
